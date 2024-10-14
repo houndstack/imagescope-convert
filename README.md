@@ -1,1 +1,1 @@
-Converts annotations from ImageScope to Aperio
+Converts annotations from W3C to Aperio ImageScope
